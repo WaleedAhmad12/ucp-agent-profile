@@ -3,6 +3,7 @@
   "capabilities": [
     "dev.ucp.shopping.catalog",
     "dev.ucp.shopping.cart",
-    "dev.ucp.shopping.checkout"
+    "dev.ucp.shopping.checkout",
+    "dev.ucp.payments.ap2" 
   ]
 }
